@@ -1,0 +1,1 @@
+export const GEOLOCATION_REQUEST = 'geolocation/GEOLOCATION_REQUEST';
